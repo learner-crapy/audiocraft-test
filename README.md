@@ -71,19 +71,15 @@ https://74c5b432ff1e2fcf3a.gradio.live
 | model                                 | download | level | run  |
 | ------------------------------------- | -------- | ----- | ---- |
 | facebook/musicgen-melody              | F        |       | T    |
-| facebook/musicgen-medium              | T        | 7/10  | t    |
+| facebook/musicgen-medium              | T        | 7/10  | T    |
 | facebook/musicgen-small               | T        | 5/10  | T    |
-| facebook/musicgen-large               | T        |       | F    |
-| facebook/musicgen-melody-large        | T        |       | F    |
-| facebook/musicgen-stereo-small        | T        |       | F    |
+| facebook/musicgen-large               | T        |       | T    |
+| facebook/musicgen-melody-large        | T        |       | T    |
+| facebook/musicgen-stereo-small        | T        |       | T    |
 | facebook/musicgen-stereo-medium       | T        | 5/10  | T    |
-| facebook/musicgen-stereo-melody       | T        |       |      |
-| facebook/musicgen-stereo-large        | T        |       | F    |
-| facebook/musicgen-stereo-melody-large | T        |       | F    |
-
-
-
-
+| facebook/musicgen-stereo-melody       | T        |       | T    |
+| facebook/musicgen-stereo-large        | T        |       | T    |
+| facebook/musicgen-stereo-melody-large | T        |       | T    |
 
 
 
@@ -115,8 +111,10 @@ unlv server
 https://autohealth.ngrok.dev/
 
 
-
-
-
 ## others
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+```
+ffmpeg -i audio.mp3 -ss 10 -to 40 -c copy output.mp3
+```
+
