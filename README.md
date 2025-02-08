@@ -61,10 +61,7 @@ models--facebook--encodec_32khz
 **2080ti**
 
 
-
-
-
-https://74c5b432ff1e2fcf3a.gradio.live
+https://4bb0a5d62b8fc10486.gradio.live
 
 
 
