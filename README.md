@@ -87,7 +87,7 @@ https://74c5b432ff1e2fcf3a.gradio.live
 
 
 
-https://6c15d5254f010b4488.gradio.live/
+https://7be9c1fa2211d86cfc.gradio.live
 
 
 
