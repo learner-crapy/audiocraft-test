@@ -11,6 +11,8 @@ git clone https://github.com/facebookresearch/audiocraft.git
 
 cd audiocraft
 
+conda install -c conda-forge pesq
+
 pip install -e .
 
 conda install "ffmpeg<5" -c conda-forge
