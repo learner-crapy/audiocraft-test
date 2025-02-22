@@ -115,3 +115,11 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 ffmpeg -i audio.mp3 -ss 10 -to 40 -c copy output.mp3
 ```
 
+## Fine-tuning
+### dataset
+https://drive.google.com/drive/folders/1bA4D2y_LsLiOI18EX9NMkuVstg8Z1NES?usp=sharing
+
+path: My Drive/MU/train
+
+
+
