@@ -124,4 +124,7 @@ https://drive.google.com/drive/folders/1bA4D2y_LsLiOI18EX9NMkuVstg8Z1NES?usp=sha
 path: My Drive/MU/train/original
 
 
+/home/zbml/shen/audiocraft/Train/epoch5bin/checkpoints/finetune/compression_state_dict.bin
+
+
 
