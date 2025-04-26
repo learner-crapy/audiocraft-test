@@ -117,6 +117,9 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 ffmpeg -i audio.mp3 -ss 10 -to 40 -c copy output.mp3
 ```
 
+## video generation
+https://314cb927869d073ccf.gradio.live/
+
 ## Fine-tuning
 ### dataset
 https://drive.google.com/drive/folders/1bA4D2y_LsLiOI18EX9NMkuVstg8Z1NES?usp=sharing
