@@ -105,9 +105,6 @@ https://8c1a32ac4429f602d0.gradio.live
 
 
 
-unlv server 
-
-https://autohealth.ngrok.dev/
 
 
 ## others
